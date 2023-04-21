@@ -1,4 +1,4 @@
-# guava-retry
+# 基于guava-retry 注解重试
 引入
 
 ```java
@@ -9,7 +9,7 @@
 </dependency>
 ```
 
-guava 重试
+
 
 GuavaRetry 注解
 
