@@ -6,7 +6,7 @@ import lombok.Getter;
 
 import java.util.concurrent.TimeUnit;
 
-public class retryStrategyEnum {
+public class etryStrategyEnum {
 
 
     /**
