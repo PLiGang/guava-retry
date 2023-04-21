@@ -1,10 +1,13 @@
 # guava-retry
 引入
+
+```java
 <dependency>
     <groupId>com.github.rholder</groupId>
     <artifactId>guava-retrying</artifactId>
     <version>2.0.0</version>
 </dependency>
+```
 
 guava 重试
 
